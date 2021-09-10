@@ -1,3 +1,9 @@
+
+** por facilidad puede abrir el siguiente tablero de codesanbox para ver el ejercicio en funcionamiento **
+
+https://codesandbox.io/s/compassionate-cerf-2vu2i
+
+
 **Primer evaluación entregable de Front-end III para C.T.D.**
 
  - Pueden ver el deploy de la aplicación en:
